@@ -1005,6 +1005,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 6
+  rotatingPlatformPush: 0
+  xVelocity: 0
 --- !u!54 &1443319078169341057
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1078,8 +1080,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2.1825607, y: 1.7962508, z: 8.34634}
-  m_Center: {x: -0.015138984, y: -0.3981254, z: 3.67317}
+  m_Size: {x: 3.6780105, y: 1.7962508, z: 8.34634}
+  m_Center: {x: -0.024913788, y: -0.3981254, z: 3.67317}
 --- !u!114 &8103330446901850933
 MonoBehaviour:
   m_ObjectHideFlags: 0
